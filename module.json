@@ -1,1 +1,23 @@
-
+{
+  "id": "auto-weapon-modifier",
+  "name": "auto-weapon-modifier",
+  "title": "Auto Weapon Modifier",
+  "description": "Automatically degrades a weapon if a natural 1 or 20 is rolled on an attack.",
+  "version": "1.1.0",
+  "author": "DaKea91",
+  "authors": [{
+    "name": "DaKea91",
+    "url": "https://github.com/DaKea91"
+  }],
+  "esmodules": ["auto-weapon-modifier.js"],
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.9",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "socket": false,
+  "url": "https://github.com/DaKea91/auto-weapon-modifier",
+  "manifest": "https://raw.githubusercontent.com/DaKea91/auto-weapon-modifier/main/module.json",
+  "download": "https://raw.githubusercontent.com/DaKea91/auto-weapon-modifier/main/DaKea91-AWM.zip"
+}
